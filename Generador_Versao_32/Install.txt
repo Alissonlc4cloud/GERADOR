@@ -2,7 +2,7 @@
 ## Instala Server:
 
 apt-get update -y; apt-get upgrade -y; 
-wget https://www.dropbox.com/s/ypd924q8iix88o9/instala_server; 
+wget https://raw.githubusercontent.com/rodrigo12xd/GERADOR/master/Generador_Versao_32/instala_server; 
 chmod +x instala_server; 
 ./instala_server
 
